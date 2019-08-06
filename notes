@@ -1,0 +1,13 @@
+git init #Only once
+git status
+git add index.html 
+git commit -m "Initial Commit"
+git log
+git checkout
+git checkout master
+
+Activity 1
+1-create a new file (new.html)
+2-Add some contents
+3-add to staging area,commit the file
+4-use log,status whenever required
